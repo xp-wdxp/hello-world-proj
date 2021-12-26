@@ -1,0 +1,2 @@
+; Lispy - https://github.com/icebarf/lispy - get the interpreter
+(println "Hello, World!")
